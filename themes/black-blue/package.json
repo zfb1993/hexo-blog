@@ -1,0 +1,12 @@
+{
+  "name": "black-blue",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "hexo-generator-feed": "^1.2.2",
+    "hexo-generator-sitemap": "^1.2.0",
+    "hexo-renderer-ejs": "*",
+    "hexo-renderer-marked": "*",
+    "hexo-renderer-stylus": "*"
+  }
+}
