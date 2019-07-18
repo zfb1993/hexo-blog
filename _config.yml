@@ -78,4 +78,6 @@ theme: black-blue
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@78.141.199.81:/home/git/repos/blog.git
+  branch: master
