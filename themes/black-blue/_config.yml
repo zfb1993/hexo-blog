@@ -6,9 +6,9 @@
 menu:
   # 主页: /archives/
   所有文章: /archives/
-  PHP: /PHP/
-  Linux: /Linux/
-  Mysql: /Mysql/
+  PHP: /categories/PHP/
+  Linux: /categories/Linux/
+  Mysql: /categories/MySql/
   关于我: /about/
 # 静心阅读: /tags
 
