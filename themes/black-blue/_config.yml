@@ -10,7 +10,6 @@ menu:
   Linux: /categories/Linux/
   Mysql: /categories/MySql/
   关于我: /about/
-# 静心阅读: /tags
 
 # Link to your avatar | 填写头像地址
 avatar: /img/avatar.jpg
@@ -19,7 +18,7 @@ avatar: /img/avatar.jpg
 favicon: /img/favicon.png
 
 # 域名是否启用https，如果启用，js文件必须https加载
-isHttps: true
+isHttps: false
 
 # Social info. Bar | 社交信息展示
 ## Keep "mailto:" in Email | 设置 Email 时保留 "mailto:"
